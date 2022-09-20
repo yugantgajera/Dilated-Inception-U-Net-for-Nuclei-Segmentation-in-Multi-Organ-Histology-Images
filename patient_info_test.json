@@ -1,0 +1,50 @@
+{
+    "Patient ID": [
+        "TCGA-AC-A2FO-01A-01-TS1",
+        "TCGA-AO-A0J2-01A-01-BSA",
+        "TCGA-2Z-A9J9-01A-01-TS1",
+        "TCGA-GL-6846-01A-01-BS1",
+        "TCGA-IZ-8196-01A-01-BS1",
+        "TCGA-EJ-A46H-01A-03-TSC",
+        "TCGA-HC-7209-01A-01-TS1",
+        "TCGA-CU-A0YN-01A-02-BSB",
+        "TCGA-ZF-A9R5-01A-01-TS1",
+        "TCGA-A6-6782-01A-01-BS1",
+        "TCGA-44-2665-01B-06-BS6",
+        "TCGA-69-7764-01A-01-TS1",
+        "TCGA-FG-A4MU-01B-01-TS1",
+        "TCGA-HT-8564-01Z-00-DX1"
+    ],
+    "Organ": [
+        "Breast",
+        "Breast",
+        "Kidney",
+        "Kidney",
+        "Kidney",
+        "Prostate",
+        "Prostate",
+        "Bladder",
+        "Bladder",
+        "Colon",
+        "Lung",
+        "Lung",
+        "Brain",
+        "Brain"
+    ],
+    "Disease Type": [
+        "Breast Invasive Carcinoma",
+        "Breast invasive carcinoma",
+        "Kidney renal papillary cell carcinoma",
+        "Kidney renal papillary cell carcinoma",
+        "Kidney renal papillary cell carcinoma",
+        "Prostate Adenocarcinoma",
+        "Prostate Adenocarcinoma",
+        "Bladder Urothelial Carcinoma",
+        "Bladder Urothelial Carcinoma",
+        "Colon Adenocarcinoma",
+        "Lung Adenocarcinoma",
+        "Lung Adenocarcinoma",
+        "Brain Lower Grade Glioma",
+        "Brain Lower Grade Glioma"
+    ]
+}
